@@ -1,0 +1,81 @@
+body{
+    background: white;
+    height: 25%;
+    width: 40%;
+    margin: 5px 35%;
+    padding: 1px 1px;
+    border: 1px solid black;
+}
+
+img{
+    width: 100%;
+    height: 100%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+.puntos{
+    font-size: 38px;
+    padding-left: 90%;
+}
+.post-header{
+    width: 10%;
+    height: 88%;
+    display: flex;
+    justify-content: space-between;
+    padding: 1px;
+    margin: 0px;
+}
+
+ h1{
+    font-size: 16px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight:    10px;
+    margin: 0px;
+    padding: 0px;   
+}
+h2{
+    font-family: sans-serif;
+    width: 70000px;
+    text-align: left;
+    font-size: 15px;
+    border-top: 0px;
+}
+.html5{
+    font-size: 50px;
+    border-left: 10px;
+    margin-right: 10px;
+}
+.likes{
+    font-size: 15px;
+    font-family: black Arial , Helvetica, sans-serif;
+}
+.post-texto{
+    font-size: 14px;
+    font-family: black Arial , Helvetica, sans-serif;
+}
+
+.fa-bookmark{
+    font-size: 28px;
+    padding-left: 60%;
+}
+.fa-heart{
+    font-size: 28px;
+}
+.fa-comment{
+    font-size: 28px;
+}
+.fa-share{
+    font-size: 28px;
+}
+.fa-paper-plane{
+    font-size: 28px;
+}
+.post-icons{
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    margin: 0px;
+    color: white; 
+  text-shadow: -2px -2px 0 black, 2px -2px 0 black, -2px 2px 0 black, 2px 2px 0 black; /* Simula el borde negro */
+}
