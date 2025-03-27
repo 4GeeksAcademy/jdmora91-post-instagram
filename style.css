@@ -1,31 +1,35 @@
 body{
     background: white;
-    height: 25%;
-    width: 40%;
+    height: 35%;
+    width: 35%;
     margin: 5px 35%;
-    padding: 1px 1px;
-    border: 1px solid black;
+    padding: 5px 5px;
+    border: 10px ;
 }
 
 img{
     width: 100%;
-    height: 100%;
-    padding-top: 1px;
-    padding-bottom: 1px;
+    height: 125%;
+    padding-top: 0px;
+    padding-bottom: 0px;
 }
 .puntos{
-    font-size: 38px;
+    font-size: 40px;
     padding-left: 90%;
+    
 }
 .post-header{
     width: 10%;
-    height: 88%;
+    height: 10%;
     display: flex;
     justify-content: space-between;
-    padding: 1px;
+    padding: 0px;
     margin: 0px;
 }
-
+.titulos{
+    width: 40px;
+    height: 40px;
+}
  h1{
     font-size: 16px;
     font-family: Arial, Helvetica, sans-serif;
